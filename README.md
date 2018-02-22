@@ -1,0 +1,1 @@
+# pos_sale_stock_info
