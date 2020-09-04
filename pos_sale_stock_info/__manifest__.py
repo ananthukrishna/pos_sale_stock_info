@@ -25,7 +25,7 @@
     'summary': 'Stock Details For Every Point of Sale',
     'version': '10.0.1.0.0',
     'description': """This module helps you to get avialabel Stock for selected product. This will help you to""",
-    'author': 'Ananthu',
+    'author': 'CodersFort',
     'website': 'http://www.codersfort.com/',
     'license': 'AGPL-3',
     'category': 'Point Of Sale',
