@@ -33,6 +33,7 @@
         'base',
         'point_of_sale',
     ],
+    'images': ['images/pos_sale_stock_info.png'],
     'data': [
         'views/pos_asset_view.xml',
         'views/product_view.xml',
